@@ -4,7 +4,7 @@
 
 int main()
 {
-	int arr[ROWS][COLS];
+	int arr[ROWS][COLS] = {0};
 	int sum = 0;
 
 	for (int i = 0; i < ROWS; ++i)
