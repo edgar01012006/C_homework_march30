@@ -3,7 +3,7 @@
 
 int main()
 {
-	int arr[ROWS_COLS][ROWS_COLS];
+	int arr[ROWS_COLS][ROWS_COLS] = {0};
 	int sum = 0;
 
 	for (int i = 0; i < ROWS_COLS; ++i)

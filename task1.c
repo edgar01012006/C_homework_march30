@@ -3,7 +3,7 @@
 
 int main()
 {
-	int arr[SIZE];
+	int arr[SIZE] = {0};
 
 	for (int i = 0; i < SIZE; ++i)
 	{	
